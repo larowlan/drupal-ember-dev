@@ -1,0 +1,5 @@
+name = Ember
+description = Ember integration module
+core = 7.x
+type = module
+package = Experimental
